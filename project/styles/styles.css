@@ -197,7 +197,7 @@ textarea {
 
 .profile {
 	text-align: center;
-	padding: 3.2rem 0rem 4.2rem;
+	padding: 3.2rem  4.2rem;
 }
 
 .cnt-links {
@@ -403,7 +403,7 @@ textarea {
 	text-align: center;
 	font-size: 1.4rem;
 }
-/*
+
 .form__cta {
 	padding: 3rem;
 	display: flex;
@@ -447,14 +447,14 @@ textarea {
 	align-self: baseline;
 	cursor: pointer;
 }
-*/
+
 
 .form__cta input::placeholder {
 	color: var(--text-color);
 	background: initial;
 }
-*/
-/*
+
+
 .form__cta input::-webkit-input-placeholder {
 	color: var(--text-color);
 	background: initial;
@@ -469,15 +469,15 @@ textarea {
 	color: var(--text-color);
 	background: initial;
 }
-*/
-/*.form__cta .flex {
+
+.form__cta .flex {
 	gap: 2rem;
 }
 
 .form__cta .flex > .input__cnt {
 	flex: 1;
-}*/
-/*
+}
+
 .sr-only {
 	position: absolute;
 	width: 1px;
@@ -490,7 +490,7 @@ textarea {
 	border-width: 0;
 }
 
-*/
+
 
 @media (max-width: 990px) {
 	#container {
